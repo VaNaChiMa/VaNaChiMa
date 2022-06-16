@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Front-end developer from Moldova :)
+### I'm a Frontend developer from Moldova :)
 
 <!--
 **VaNaChiMa/VaNaChiMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
